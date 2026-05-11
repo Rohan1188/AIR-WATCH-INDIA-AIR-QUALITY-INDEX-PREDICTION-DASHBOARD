@@ -18,7 +18,7 @@ This platform helps:
 * Authorities make data-driven decisions
 * Students learn ML-based environmental prediction systems
 
-Air pollution remains one of the biggest environmental challenges in India, and this project aims to contribute toward awareness and smart monitoring solutions. ([GitHub][1])
+Air pollution remains one of the biggest environmental challenges in India, and this project aims to contribute toward awareness and smart monitoring solutions.
 
 ---
 
