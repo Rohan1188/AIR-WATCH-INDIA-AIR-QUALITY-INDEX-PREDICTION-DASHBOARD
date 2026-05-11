@@ -56,7 +56,6 @@ These models are evaluated using:
 * RMSE
 * R² Score
 
-AQI prediction systems commonly use regression-based ML approaches with pollutant datasets and meteorological parameters. ([GitHub][1])
 
 ---
 
